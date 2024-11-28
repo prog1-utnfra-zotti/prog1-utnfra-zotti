@@ -12,9 +12,8 @@ Estamos profundizando en **algoritmos**, **lógica de programación**, **estruct
 
 ## 📂 Proyectos destacados de estudiantes
 
+- **[Preguntados](https://github.com/teovidal1/Preguntados_grupal)**: Juego Preguntados desarrollado por Romero Yesica, Teo Vidal y Fernando Rivera.
 - **[Plataform Game](https://github.com/prog1-utnfra-zotti/plataform_game)**: Platformer Game es un juego de plataformas 2D simple desarrollado en Python usando la librería PyGame.
-- **[Proyecto 2](https://github.com/tu-usuario/proyecto-2)**: Una breve descripción de este proyecto y de las tecnologías que usaste.
-- **[Proyecto 3](https://github.com/tu-usuario/proyecto-3)**: Una breve descripción de este proyecto y de las tecnologías que usaste.
 
 Para ver más proyectos, visita nuestro [repositorio](https://github.com/prog1-utnfra-zotti?tab=repositories) 🗄️.
 
